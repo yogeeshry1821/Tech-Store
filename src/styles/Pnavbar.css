@@ -1,0 +1,9 @@
+.pnav{
+    /* background: hsla(172, 85%, 74%, 1); background: linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); */
+    /* background: -moz-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); background: -webkit-linear-gradient(45deg, hsla(172, 85%, 74%, 1) 0%, hsla(225, 60%, 67%, 1) 42%, hsla(319, 74%, 64%, 1) 100%); filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#83f5e5", endColorstr="#7A93DE", GradientType=1 ); */
+    background: hsla(324, 91%, 46%, 1); background: linear-gradient(45deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%); background: -moz-linear-gradient(45deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%);
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+    color:black;
+
+}

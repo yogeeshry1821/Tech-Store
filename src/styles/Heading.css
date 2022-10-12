@@ -1,0 +1,18 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading div{
+    background-color:rgb(73, 73, 73);
+    height: 1px;
+    width: 30vw;
+}
+.heading p{
+    
+    color: rgba(56, 54, 54, 0.696) ;
+    margin: 2vmax;
+    font-weight: 400;
+    font-size: 30px;
+    transition: all 5s;
+}

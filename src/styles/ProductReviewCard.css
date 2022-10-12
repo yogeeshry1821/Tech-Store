@@ -1,0 +1,20 @@
+.ProductReviewCard{
+    margin: 0.5vmax;
+    padding-bottom: 2vmax;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.ProductReviewCard:hover{
+    box-shadow: 0px 5px 15px rgba(53, 53, 53, 0.535);
+    transform: translateY(-0.4vmax);
+}
+
+.ProductReviewCard h5{
+    font: 1.5em sans-serif;
+    margin: 2vmax 0 0.5vmax 2vmax;
+    color: black;
+}
+.ProductReviewCard span{
+    color: maroon;
+    margin: 2vmax;
+}
